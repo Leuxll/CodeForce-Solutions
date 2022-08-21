@@ -7,6 +7,9 @@
         "list": "cpp",
         "string": "cpp",
         "vector": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "queue": "cpp",
+        "stack": "cpp",
+        "numbers": "cpp"
     }
 }
