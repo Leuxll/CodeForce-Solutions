@@ -10,6 +10,7 @@
         "ios": "cpp",
         "queue": "cpp",
         "stack": "cpp",
-        "numbers": "cpp"
+        "numbers": "cpp",
+        "iosfwd": "cpp"
     }
 }
